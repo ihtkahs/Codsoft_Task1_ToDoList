@@ -8,7 +8,7 @@ This repository includes a To-Do List application. It aims to demonstrate differ
 
 #### Description
 
-Create a To-Do List application that allows users to manage and organize their tasks efficiently. The application provides a graphical user interface (GUI) for an intuitive user experience.
+To-Do List application that allows users to manage and organize their tasks efficiently. The application provides a graphical user interface (GUI) for an intuitive user experience.
 
 #### Features
 
